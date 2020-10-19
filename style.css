@@ -62,7 +62,18 @@
 
 #form li a {
   height: 75px;
-  margin-top: 20px;
+  margin-top: 200px;
+}
+
+#form #login {
+  color: white;
+  background-color: #1877f2;
+}
+
+#form #new {
+  color: white;
+  background-color: #36a420;
+  width: 50%;
 }
 
 #right-text {
