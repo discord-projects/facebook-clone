@@ -28,6 +28,7 @@
   grid-row: 2 / 4;
   font-size: 40px;
   justify-self: center;
+  /*border: 2px solid black;*/
 }
 
 #recent-logins img {
@@ -41,11 +42,13 @@
 }
 
 #form {
-  background-color: #f0f2f5;
+  /*  background-color: #f0f2f5;*/
+  background-color: white;
   grid-column: 2 / 3;
   grid-row: 2 / 4;
-  justify-content: center;
-  justify-self: center;
+  /*border: 2px solid black;*/
+  border-radius: 25px;
+  box-shadow: 0px 10px 10px #dcdde0;
 }
 
 #form li {
